@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- LRTP Origin/Destination Chord Diagram  -->
+<title>LRTP Origin / Destination Data - 2012</title>
+<script src="jquery-1.11.1.min.js"></script>
+<script src="d3.v3.min.js"></script>
+<link rel="stylesheet" type="text/css" href="d3demo.css"  /> 
+</head>
+<body>
+<div>
+	<h1 style="font-family:sans-serif">Origin / Destination Highway Flows in the Boston Region MPO Area</h2>
+</div>
+<div id="sidebar">
+	<div class="card">
+		<div class="content">
+			<p>This interactive graphic shows origin / destination highway traffic flow patterns among the districts in 
+			the Boston Region MPO.</p>
+			<p>Select a district by mousing over the light-colored edge of the circle. Then mouse-over a link to see the number of daily highway trips between the selected district and another district. Thicker links mean more daily highway trips.</p>
+			<p>Districts are linked only if there were at least 5,000 daily highway trips between them. If a district does not appear in the graphic, it is because there were fewer than 5,000 daily highway trips between it and any other district in 2012.</p>
+		</div>
+	</div>
+	<div class="card">
+		<div class="content">
+			<p>Source: CTPS.</p>
+			<p>Notes: Origin / destination figures are estimates based on 2012 modelling data. Estimates of flows are subject to a margin of error of TBD...</p>
+		</div>
+	</div>
+</div>
+<script src="d3demo.js"></script>
+</body>
+</html>
