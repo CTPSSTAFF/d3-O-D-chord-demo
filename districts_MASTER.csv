@@ -1,0 +1,46 @@
+name,number,description,color,region,origin_highway,destination_highway,origin_transit,destination_transit,origin_bike,destination_bike,origin_walk,destination_walk,origin_truck,destination_truck
+District 23,23,"Billerica, Burlington",#e41a1c,North,213766,214866,2239,1997,2763,2709,17179,17179,44245,44452
+District 34,34,"Haverhill, Methuen, Lawrence",#e41a1c,North,357296,359238,2655,2548,5641,5741,51020,51331,61218,59279
+District 35,35,"Chelmsford, Lowell, Dracut, Tyngsborough, Dunstable",#e41a1c,North,411230,410601,1839,1691,6211,6211,58424,58424,66612,65235
+District 51,51,New Hampshire,#e41a1c,North,274455,274315,0,0,0,0,0,0,76520,76701
+District 4,4,"East Boston, Logan Airport",#377eb8,Northeast,92148,90397,15788,15016,2305,2137,18690,18690,18470,18501
+District 5,5,"Winthrop, Chelsea, Revere",#377eb8,Northeast,136422,136917,19181,18245,4788,4579,36650,36653,29372,29630
+District 12,12,"Lynn, Saugus, Nahant",#377eb8,Northeast,142701,141686,11565,11398,3375,3297,28258,28258,38371,38802
+District 19,19,"Swampscott, Salem, Marblehead, Beverly, Wenham, Hamilton",#377eb8,Northeast,359549,359004,16884,16519,5974,6158,76272,76253,47443,48143
+District 20,20,"Lynnfield, Peabody, Danvers, Middleton, Topsfield, Boxford",#377eb8,Northeast,307676,308296,3913,3586,4185,4079,29293,29312,56435,56849
+District 32,32,"Rockport, Gloucester, Manchester, Essex, Ipswich, Rowley, Georgetown",#377eb8,Northeast,199260,199735,2937,2874,2255,2255,19235,19235,27155,27376
+District 33,33,"Salisbury, Amesbury, Merrimac, Newbury, Newburyport, West Newbury, Groveland",#377eb8,Northeast,182535,181854,686,542,1191,1191,9030,9030,26654,25531
+District 1,1,Downtown Boston East of Charles Street,#4daf4a,Boston proper,227594,221020,127186,136141,15673,14022,104738,97074,98515,99727
+District 2,2,South Boston Seaport District,#4daf4a,Boston proper,32781,32162,6234,7131,1247,938,6957,6712,13376,13406
+District 11,11,"South Boston, Dorchester, Mattapan (part)",#9843a3,Southeast,169056,168475,48574,47209,9079,9443,57055,57977,45399,45497
+District 18,18,"Milton, Quincy",#9843a3,Southeast,247181,250148,31702,30396,6755,6325,44789,44658,47707,48115
+District 29,29,"Brockton, Whitman",#9843a3,Southeast,237840,236436,3704,3758,3466,3371,32700,32699,37989,38317
+District 30,30,"Braintree, Weymouth",#9843a3,Southeast,230038,229733,7643,7422,3612,3763,22469,22469,42712,43089
+District 31,31,"Abington, Rockland, Hanover, Norwell, Scituate, Hingham, Cohasset, Hull",#9843a3,Southeast,317454,318894,3883,3607,4147,4147,25770,25770,47325,47816
+District 41,41,"Marshfield, Duxbury, Plymouth, Pembroke, Hanson, Halifax, Kingston, Plympton, Carver",#9843a3,Southeast,418210,417763,1810,1406,2694,2694,17588,17588,54387,53886
+District 54,54,Southeastern Massachusetts,#9843a3,Southeast,137993,137980,0,0,0,0,0,0,40810,40947
+District 3,3,Back Bay and South End,#ff7f00,Southwest,108545,104873,74970,76863,9678,9113,79917,80441,46184,46703
+District 10,10,"Roxbury, Jamaica Plain, Roslindale (part), Mattapan (part)",#ff7f00,Southwest,134520,135267,44986,45147,8096,8978,57213,59329,23424,23690
+District 17,17,"Hyde Park, West Roxbury, Roslindale (part), Dedham",#ff7f00,Southwest,249905,250722,23912,22543,6007,5248,28538,28538,35874,36204
+District 27,27,"Millis, Medfield, Westwood, Norwood, Norfolk, Walpole, Sharon",#ff7f00,Southwest,361343,361128,7097,7004,4512,4563,32003,32003,51894,52402
+District 28,28,"Canton, Stoughton, Randolph, Avon, Holbrook",#ff7f00,Southwest,251047,250181,5581,5362,3122,3122,20589,20589,48601,49014
+District 38,38,"Medway, Franklin, Bellingham, Milford, Hopedale, Mendon, Blackstone, Millville, Uxbridge",#ff7f00,Southwest,331854,334527,900,853,3455,3455,22717,22717,49566,48829
+District 39,39,"Foxborough, Wrentham, Mansfield, Plainville, North Attleborough, Attleboro, Norton",#ff7f00,Southwest,432026,432630,2441,2339,4795,4795,33379,33379,73426,71269
+District 40,40,"East Bridgewater, West Bridgewater, Easton, Bridgewater, Raynham,Taunton, Middleborough, Lakeville",#ff7f00,Southwest,427381,433329,1063,825,4376,4471,41915,41916,77649,76281
+District 53,53,Rhode Island,#ff7f00,Southwest,150489,150479,0,0,0,0,0,0,46900,47125
+District 9,9,"Brookline, Allston, Brighton",#ff7f00,West,333657,330843,132203,132383,22209,24135,198896,201963,81167,82084
+District 16,16,Newton,#ff7f00,West,274921,273330,24183,23043,7193,6874,58001,57844,38338,38715
+District 25,25,"Wayland, Weston, Natick, Wellesley, Needham, Dover",#ff7f00,West,423298,422648,10011,9680,5208,5143,47154,47165,57352,58009
+District 26,26,"Sudbury, Framingham, Ashland, Holliston, Sherborn",#ff7f00,West,308906,308472,2829,2667,3397,3445,25825,25832,55982,56214
+District 37,37,"Hudson, Marlborough, Southborough, Hopkinton, Berlin, Northborough, Westborough, Upton, Northbridge",#ff7f00,West,396778,401875,1185,1132,1927,1927,13377,13377,85454,82838
+District 52,52,Western Massachusetts,#ff7f00,West,235833,235864,0,0,0,0,0,0,57982,58151
+District 7,7,Somerville,#a65628,Northwest,120252,120349,31684,31085,7861,7794,64530,65192,23858,24102
+District 8,8,Cambridge,#a65628,Northwest,331851,326922,131049,133339,23419,24214,224117,224992,66852,67648
+District 14,14,"Arlington, Belmont, Watertown",#a65628,Northwest,317292,317154,26957,25958,9011,8919,57794,58323,34812,35169
+District 15,15,"Lexington, Waltham",#a65628,Northwest,301975,302315,13119,12944,6562,6295,50931,50331,50247,50683
+District 24,24,"Acton, Carlisle, Maynard, Concord, Bedford, Lincoln",#a65628,Northwest,334071,335713,4180,3772,4046,4046,21406,21406,36123,36372
+District 36,36,"Stow, Bolton, Boxborough, Littleton, Westford, Pepperell, Groton, Ayer, Harvard, Clinton, Lancaster, Shirley",#a65628,Northwest,314291,313104,870,846,2764,2764,16813,16813,45134,44016
+District 6,6,"Charlestown, Malden, Medford, Everett",#e41a1c,North,250555,250736,42747,42144,9767,10558,72285,72366,58369,58920
+District 13,13,"Woburn, Stoneham, Winchester",#e41a1c,North,390350,393040,17006,16434,5708,5655,45067,45067,64214,64872
+District 21,21,"Reading, North Reading, Wilmington",#e41a1c,North,221785,221063,3239,3014,2177,2177,18547,18547,32635,32718
+District 22,22,"North Andover, Andover, Tewksbury",#e41a1c,North,289314,291340,1907,1679,3628,3528,29400,29089,50906,50331
